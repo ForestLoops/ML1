@@ -11,7 +11,7 @@
        ● Accuracy, TP, TN, FP, TN, error, Recall, Specificity, F1-score, AUC for classification 
          models
  For relevant datasets make prediction models for the following:
-    ** 1.Naïve Bayes Classifier
+     1.Naïve Bayes Classifier
      2. Simple Linear Regression
      3. Multiple linear regression
      4. Polynomial Regression
@@ -22,4 +22,4 @@
      9. Decision tree classification
     10. SVMclassification
     11. K-means clustering
-    12. Hierarchical clusterin**```
+    12. Hierarchical clusterin```
