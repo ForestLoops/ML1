@@ -1,4 +1,4 @@
-"""Practicals
+```Practicals
  For practical Labs for Machine Learning, students may use softwares like MATLAB/ Octave/
  Python/ R. Utilize publically available datasets from online repositories like https://data.gov.in/
  and https://archive.ics.uci.edu/ml/datasets.php
@@ -21,4 +21,4 @@ Simple Linear Regression
  Decision tree classification
  SVMclassification
  K-means clustering
- Hierarchical clusterin"""
+ Hierarchical clusterin```
